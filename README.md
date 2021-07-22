@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+It is a react application which helps you mark your todos for a day
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
